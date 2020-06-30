@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Portal2
+  - Portal1
+  - New Player
+  - Screen
+  - PickUpGuide
+  - Cube
+  - PickedCube
+  - Highlight
+  - room1Exit
+  - room2Exit
+  - room3Exit
+  - Floor
+  - room4Exit
+  - levelExit
+  - timer
+  - PortalGun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - PickUpAble
+  - wallSpawn
+  - floorSpawn
+  - block
+  - portail1
+  - portail2
+  - PortalParticle
+  - noSpawn
+  - Portal Gun
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
