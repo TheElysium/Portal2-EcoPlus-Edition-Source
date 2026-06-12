@@ -209,6 +209,7 @@ public class Portal : MonoBehaviour
 		travellerT.rotation = newRot;
 	}
 
+	
 	void findOtherPortal()
 	{
 		Portal[] portals = FindObjectsOfType<Portal>();
